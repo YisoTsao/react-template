@@ -4,9 +4,8 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <p>
-          react template
-        </p>
+        <p>react template</p>
+        <p>test ci cd</p>
         <a
           className="App-link"
           href="https://reactjs.org"
