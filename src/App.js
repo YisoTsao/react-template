@@ -6,6 +6,7 @@ function App() {
       <header className="App-header">
         <p>react template</p>
         <p>test ci cd</p>
+        <p>test ci cd 2</p>
         <a
           className="App-link"
           href="https://reactjs.org"
